@@ -1,5 +1,3 @@
-# Fine-Tuning-a-Large-Language-Model
-
 # Fine-Tuning BERT for Beer Style Classification
 
 ## Project Overview
