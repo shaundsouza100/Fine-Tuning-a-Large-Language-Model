@@ -1,0 +1,6 @@
+transformers==4.38.2       # Hugging Face Transformers for BERT
+torch==2.0.1               # PyTorch for model training and fine-tuning
+scikit-learn==1.2.2        # Label encoding, train-test split, evaluation metrics
+pandas==1.5.3              # Data manipulation (loading and cleaning dataset)
+seaborn==0.12.2            # Visualization of confusion matrix (heatmaps)
+matplotlib==3.7.1          # Core plotting library used with seaborn
